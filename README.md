@@ -1,4 +1,3 @@
 # hello_world
-lizhou's test_1
 
-First_Test_Porject
+李洲的第一个github测试代码
